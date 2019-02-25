@@ -16,7 +16,7 @@
             <version>1.2.2</version>
             <!--当本地运行时不需要provided 因为其只提供编译，不参与运行，-->
             <!--当远程时需要加上，只编译即可-->
-            <scope>provided</scope>
+            <!--<scope>provided</scope>-->
         </dependency>
     </dependencies>
     <build>
